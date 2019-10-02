@@ -1,0 +1,12 @@
+1.0
+Complete
+
+1.1
+Added quitting with the Escape key
+Changed UI so it scales with the screen size
+
+1.2
+Paddle speed is higher now (6 to 6.5)
+AI Difficulty increased (0.1 to 0.2)
+Gravity increased, paddles will slide less (3 to 4)
+Changed return to menu button to be slightly wider
